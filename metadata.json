@@ -1,0 +1,6 @@
+{
+  "name": "HABM",
+  "description": "Estudio inteligente del programador de redes sociales que permite automatizar contenido de alto impacto por nicho en Facebook, Instagram, Reels, TikTok y YouTube, con planificador interactivo y calendario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
