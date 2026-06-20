@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Rising Metrics Growth Bars representing SocialGrow -->
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M30,75 L30,55 C30,52.8 31.8,51 34,51 C36.2,51 38,52.8 38,55 L38,75 C38,77.2 36.2,79 34,79 C31.8,79 30,77.2 30,75 Z" />
+
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M46,75 L46,40 C46,37.8 47.8,36 50,36 C52.2,36 54,37.8 54,40 L54,75 C54,77.2 52.2,79 50,79 C47.8,79 46,77.2 46,75 Z" />
+
+    <path
+        android:fillColor="#4FC3F7"
+        android:pathData="M62,75 L62,25 C62,22.8 63.8,21 66,21 C68.2,21 70,22.8 70,25 L70,75 C70,77.2 68.2,79 66,79 C63.8,79 62,77.2 62,75 Z" />
+
+    <!-- AI Sparkle indicating Gemini Assistant -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M76,26 C76,21.5 72.5,18 68,18 C72.5,18 76,14.5 76,10 C76,14.5 79.5,18 84,18 C79.5,18 76,21.5 76,26 Z" />
+
+</vector>
